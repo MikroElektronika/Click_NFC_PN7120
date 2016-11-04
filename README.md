@@ -1,6 +1,6 @@
 ![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
 
-![NFC click](http://cdn.mikroe.com/img/click/nfc/nfc-click.png)
+![NFC click](http://cdn.mikroe.com.s3.amazonaws.com/img/banners/news/2016/11/nfc-click-banner-news.png)
 
 ---
 
